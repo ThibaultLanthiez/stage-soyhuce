@@ -4,7 +4,7 @@
 
 # Preuve de concept sur le Marketing Mix Modeling
 
-Le MMM (Marketing Mix Modeling) est un ensemble de méthodes d'analyse de données marketing. Il utilise des données marketing (Marketing Mix) pour modéliser (Modeling) les ventes, ou un autre indicateur de performance.
+Le MMM (Marketing Mix Modeling) est un ensemble de méthodes d'analyse de données marketing. Il utilise des données marketing (Marketing Mix) pour modéliser (Modeling) les ventes ou un autre indicateur de performance.
 
 Le MMM permet de simuler et d'optimiser les stratégies marketing d'une entreprise. 
 
